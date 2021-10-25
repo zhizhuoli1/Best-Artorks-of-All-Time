@@ -33,5 +33,8 @@ Huaxuan Wang
 <img width="1056" alt="Screen Shot 2021-10-24 at 10 23 00 PM" src="https://user-images.githubusercontent.com/77072543/138630165-4b2a77c2-5e0a-4c23-a590-406548e6b941.png">
 
 ## 4. Object Detection
+### YOLO v4 model is used to detect the common objects
+<img width="324" alt="image" src="https://user-images.githubusercontent.com/77072543/138630241-7a468315-7e71-4337-8ac2-ad6211e43c79.png">
+<img width="324" alt="image" src="https://user-images.githubusercontent.com/77072543/138630252-a082aa13-1eb6-4b2a-87da-be3acf5fad08.png">
 
 
